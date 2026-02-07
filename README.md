@@ -8,7 +8,7 @@
              -- Tools & Technologies --
 Backend:      C#, .NET, ASP.NET Core, Entity Framework Core,
               T-SQL, MongoDB Driver
-Frontend/UI:  XAML, HTML, CSS, JavaScript, React
+Frontend/UI:  React, HTML, CSS, JavaScript, XAML
 Database:     SQL Server, MongoDB
 ```
 ***
