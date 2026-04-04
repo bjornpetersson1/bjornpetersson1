@@ -16,7 +16,7 @@ Database:     SQL Server, MongoDB
 
 | Name | Description | Repo | Made for |
 | ---- | ----------- | ---- | -------- |
-| AdaptivPress | POC adaptive compressor for strings and numbers | [Repo](https://github.com/bjornpetersson1/AdaptivPress.git) | Console |
+| AdaptivPress | Proof-of-concept adaptive compressor for strings and numbers | [Repo](https://github.com/bjornpetersson1/AdaptivPress.git) | Console |
 | KillTheRatKing2.0 | "Now talking to MongoDB and with a lot of new features!" | [Repo](https://github.com/bjornpetersson1/KillTheRatKing2.0_SchoolAssignment.git) | Console |
 | WhatEverWorksForYou | An app to track your runs based on your perceived effort and experience | [Repo](https://github.com/bjornpetersson1/WEWFY_ScoolAssignment.git) | WPF |
 | QuizConstructor | An app for constructing and playing quiz rounds | [Repo](https://github.com/bjornpetersson1/QuizConstructor_SchoolAssignment.git) | WPF |
