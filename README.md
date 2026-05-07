@@ -9,7 +9,8 @@
 Backend:      C#, .NET, ASP.NET Core, Entity Framework Core,
               T-SQL, MongoDB Driver
 Frontend/UI:  React, Next.js, HTML, CSS, JavaScript, TypeScript, XAML
-Database:     SQL Server, MongoDB
+Database:     SQL Server, MongoDB, Supabase
+IoT:          ESP32, Arduino Uno R4, C/C++
 ```
 ***
 ## Coding Projects
