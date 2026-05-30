@@ -18,6 +18,7 @@ IoT:          ESP32, Arduino Uno R4, C/C++
 | Name | Description | Repo | Made for |
 | ---- | ----------- | ---- | -------- |
 | AdaptivPress | Proof-of-concept adaptive compressor for strings and numbers | [Repo](https://github.com/bjornpetersson1/AdaptivPress.git) | Console |  
+| AuctionSite | Fullstack auction platform | [Repo](https://github.com/bjornpetersson1/Auctionsite_Fullstack_SchoolAssignment.git) | React / ASP.NET Core |  
 | GitAssistant | A CLI tool for common Git operations via an interactive text-based menu | [Repo](https://github.com/0flyt/GitAssistent.git) | Console |
 | KillTheRatKing2.0 | "Now talking to MongoDB and with a lot of new features!" | [Repo](https://github.com/bjornpetersson1/KillTheRatKing2.0_SchoolAssignment.git) | Console |
 | WhatEverWorksForYou | An app to track your runs based on your perceived effort and experience | [Repo](https://github.com/bjornpetersson1/WEWFY_ScoolAssignment.git) | WPF |
