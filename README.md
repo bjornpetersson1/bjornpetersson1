@@ -10,13 +10,14 @@ Backend:      C#, .NET, ASP.NET Core, Entity Framework Core,
               T-SQL, MongoDB Driver
 Frontend/UI:  React, Next.js, HTML, CSS, JavaScript, TypeScript, XAML
 Database:     SQL Server, MongoDB, Supabase
-IoT:          ESP32, Arduino Uno R4, C/C++
+IoT:          ESP32, Arduino Uno R4, C/C++, ATMEGA
 ```
 ***
 ## Coding Projects
 
 | Name | Description | Repo | Made for |
 | ---- | ----------- | ---- | -------- |
+| RAG-JEV-LLM | Legal RAG POC for slimming LLM context: only the relevant Swedish laws and rulings reach the model | [Repo](https://github.com/bjornpetersson1/RAG-JEV-LLM.git) | React / Node.js |
 | AdaptivPress | Proof-of-concept adaptive compressor for strings and numbers | [Repo](https://github.com/bjornpetersson1/AdaptivPress.git) | Console |  
 | AuctionSite | Fullstack auction platform | [Repo](https://github.com/bjornpetersson1/Auctionsite_Fullstack_SchoolAssignment.git) | React / ASP.NET Core |  
 | GitAssistant | A CLI tool for common Git operations via an interactive text-based menu | [Repo](https://github.com/0flyt/GitAssistent.git) | Console |
